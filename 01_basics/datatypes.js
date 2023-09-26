@@ -5,7 +5,7 @@
 /* We've many way to write code.
 but code readability should be high.*/
 console.log(3+8);  console.log("Alakh");
-//it will run bur it's not good practice 
+//it will run but it's not good practice 
 
 console.log(5+3);  
 console.log("Alakh"); // now it perfect 
